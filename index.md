@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Dragon馒头の网站</title>
+        <link rel="shortcut icon" href="./favicon.ico">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/medium.css" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/map.css"/>
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/light_u.css"/>
+        <link id="__css-map__" rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/laputa-css/light.css"/>
+        <link rel="dns-prefetch" href="//s1.hdslb.com">
+        <link rel="apple-touch-icon" href="//static.hdslb.com/mobile/img/512.png" />
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/medium.css" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" media="print" onload="this.media='all'">
+        <style>.old-browser-tip .title{background:#00a1d6;text-align:center;padding:10px 0;color:#fff}</style>
+        <script src="./js/smoothScroll.js" type="61cc2e01e2be4031963119a7-text/javascript"></script>
+        <script src="./js/smoothscrolling.js" type="61cc2e01e2be4031963119a7-text/javascript"></script>
+        <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.15.0.min.js"></script>
+        <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.15.0.vue.min.js"></script>
+        <script type="module" crossorigin src="//s1.hdslb.com/bfs/static/laputa-home/client/assets/index.820d8d9d.js"></script>
+        <link rel="modulepreload" href="//s1.hdslb.com/bfs/static/laputa-home/client/assets/vendor.a3a9ec88.js">
+        <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/laputa-home/client/assets/index.2675df5b.css">
+        <script>window.__SERVER_CONFIG__={"serverBuvid":"CDF2DB4C-D455-45EA-85B0-F1A9951790F1167627infoc","isModern":true};</script>
+        <script src="//s1.hdslb.com/bfs/static/laputa-home/client/assets/svgfont.6beb9aeb.js" async></script><script type="text/javascript">
+          window.__video_core_version = 'https://s1.hdslb.com/bfs/static/player/main/core.67de27fd.js'
+        </script>
+        <script type="text/javascript">
+          (function () {
+            var ua = window.navigator.userAgent,
+              agents = ['Android', 'iPhone', 'SymbianOS', 'Windows Phone', 'iPod'],
+              isPC = true;
+            if(/\sVR\s/g.test(ua)) return
+            for (var i = 0, len = agents.length; i < len; i++) {
+              if (ua.indexOf(agents[i]) > 0) {
+                isPC = false;
+                break;
+              }
+            }
+            if (!isPC) {
+              window.location.href = window.location.href.replace('www', 'm');
+            }
+          })();
+        </script>
+        <script type="text/javascript">
+          window.spmReportData = {}
+          window.reportConfig = {
+            sample: 1,
+            msgObjects: 'spmReportData',
+            errorTracker: true
+          }
+          function getCookie(name){var reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");var r=document.cookie.match(reg);return r?unescape(r[2]):null;}
+          function fsrCb(){if(window.performance&&window.performance.timing){window.performance.timing.firstscreenfinish=new Date().getTime()}}
+          function lqipCb(img){var lqip = img && img.parentNode && img.parentNode.querySelector('.lqip');if (lqip) {lqip.classList.add('is-active')}}
+          if(history.scrollRestoration){history.scrollRestoration='manual'}
+          if(!window.abtest){window.abtest={b_ut:getCookie('b_ut')}}
+          window.page_load_time = Date.now()
+        </script>
+        <style>
+        body{text-align:center;}
+        .div{margin:0 auto;}
+        img{border-radius:10px;text-align:center;margin: auto;}
+        iframe{border-radius:10px;text-align:center;margin: auto;}
+        a{border-radius:10px;text-align:center;width:215px;margin: auto;}
+        h2{border-radius:10px;text-align:center;width:215px;margin: auto;}
+        h1{border-radius:10px;text-align:center;width:512px;margin: auto;}
+        h3{border-radius:10px;text-align:center;width:215px;margin: auto;}
+        p{border-radius:10px;text-align:center;width:215px;margin: auto;}
 
-You can use the [editor on GitHub](https://github.com/Dev-DragonLong/Web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+                {
+                body{background: #00a8ff;color: #fff;}
+                text-align:center;
+            }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                {
 
-### Markdown
+            }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+            p{
+                text-align:center;
+                background-color:rgba(180,180,180,0.5);   /*所有的<div>标签背景为透明度为0.6的白色背景 */
+            }
+            a{
+                font-size: 30px;
+            }
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+        </style>
+    </head>
 
-**Bold** and _Italic_ and `Code` text
+    <body>
+        <script src="smoothScroll.js" type="61cc2e01e2be4031963119a7-text/javascript"></script>
+        <script src="smoothyscroll.js" type="61cc2e01e2be4031963119a7-text/javascript"></script>
+        <h1>いらっしゃい ~ 这里是馒头の网站</h1>
+        <a href="#Contact">Contact</a>
+        <a href="https://space.bilibili.com/522424750">馒头のB站主页</a>
+        <h2>可爱的崽一枚</h2>
+        <p>来历：天宫
+        年龄：3岁
+        生日：密
+        爱好:Furry控
+        技能：Python、Html、画画</p>
 
-[Link](url) and ![Image](src)
-```
+        <h3>我的相册</h3>
+        <p>我的崽子</p>
+        <img src="/Dragon.jpg"  style="margin: 0 auto;" align="middle" width=100 height=100 alt="Dragon - 馒头" />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dev-DragonLong/Web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        <h2>Music</h2>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=409031780&auto=0&height=66"></iframe>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=527223995&auto=0&height=66"></iframe>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1446771121&auto=0&height=66"></iframe>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+        <h2>Videos</h2>
+        <iframe src="//player.bilibili.com/player.html?aid=39004747&bvid=BV1Jt411C7zM&cid=68545028&page=9" style="margin: 0 auto;" align="middle" width="800" height="550" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+        <h2 class="center" id="Contact">Contact with me</h2>
+        <p class="center" width:400px>E-Mail：dragon_zyh@qq.com & dragon.cute.zyh@gmail.com</p>
+        <script type="text/javascript" src="//s1.hdslb.com/bfs/cm/cm-sdk/static/js/pc.js"></script>
+    </body>
+</html>
