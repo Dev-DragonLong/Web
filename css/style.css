@@ -1,0 +1,81 @@
+
+html *{ margin:0 auto; padding:0 auto; text-align:center;}
+.div{margin:0 auto;}
+*{
+    margin:0px;
+    padding:0px;
+    }
+    video{
+        height:auto;
+        width:auto;
+        position:fixed;
+        right:0px;
+        bottom:0px;
+        min-width:100%
+        min-height:100%
+        z-index:-11;
+    }
+    source{
+        min-width:100%;
+        min-height:100%;
+        height:auto;
+        width:auto;
+        }
+<style type="text/css">
+*{margin:0;padding: 0;}
+
+#SearchRect{
+        border-radius:15px;box-shadow:0px 0px 15px #B0C4DE;
+       list-style-type: none;
+
+       overflow: hidden;
+
+       background-color: #333;
+
+       position: fixed;
+
+       top: -10px;
+       width: 100%;
+
+}
+	body{
+		background: url("./pic/bavcktry.png") no-repeat center center fixed;
+                /*兼容浏览器版本*/
+                -webkit-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+	}
+	</style>
+.body {
+    width: 600px; height: 400px;
+    position: absolute; left: 0; top: 0; rightright: 0; bottombottom: 0;
+    margin: auto;
+}
+.blue {color:#00F}
+.white {color:white}
+
+#righttop{
+top:-5px;
+position:fixed;
+left:7px;
+}
+#bilibili{border-radius:15px;text-align:center;margin: auto;box-shadow:0px 0px 15px #B0C4DE;}
+img{border-radius:10px;text-align:center;margin: auto;box-shadow:0px 0px 5px #E6E6FA;}
+a{border-radius:10px;text-align:center;width:215px;margin: auto;}
+h2{text-align:center;width:215px;margin: auto;}
+h1{text-align:center;width:512px;margin: auto;}
+h3{border-radius:10px;text-align:center;width:215px;margin: auto;box-shadow:0px 0px 5px #E6E6FA;}
+p{border-radius:10px;text-align:center;width:215px;margin: auto;background-color:rgba(180,180,180,0.5);box-shadow:0px 0px 5px #E6E6FA;}
+p{margin: auto;}
+div{text-align:center;margin: auto;}
+p{box-shadow:0px 0px 5px #E6E6FA;}
+.Longer {width 50px}
+.video{position: fixed;right:0;bottom: 0;min-width: 100%;min-height: 100%;width: auto;height: auto;z-index: -9999;}
+*{margin:0;padding: 0;}
+#SearchInfo{
+list-style-type: none;
+overflow: hidden;
+top:20px;
+left:70px;
+position: fixed;
+}
